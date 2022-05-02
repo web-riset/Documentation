@@ -59,5 +59,5 @@ And make sure you have an existing branch in your github repository. for this re
 And you can save this pipeline, and don't forget to `build` this for the first time, to make sure the pipeline work as expected
 
 
-[jenkins-url]: https://a08a-202-52-52-14.ngrok.io/
+[jenkins-url]: https://riset.informatika.umm.ac.id/jenkins/
 [github-web-riset]: https://github.com/web-riset/
